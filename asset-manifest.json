@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7377e8c0.css",
-    "main.js": "/static/js/main.1426d38a.js",
+    "main.css": "/static/css/main.cb926b8d.css",
+    "main.js": "/static/js/main.28a18e2f.js",
+    "static/media/image-generator.gif": "/static/media/image-generator.c9dc795fbf5cf644e763.gif",
     "static/media/portfolio.gif": "/static/media/portfolio.529dbd68ff5a8b7ea006.gif",
     "static/media/TikTok Redesign.gif": "/static/media/TikTok Redesign.884d72ac59fbde3b0093.gif",
+    "static/media/3DLogo.gif": "/static/media/3DLogo.49a353ff32bbf7560dcb.gif",
     "static/media/17.jpg": "/static/media/17.e5447c10962d0128a529.jpg",
+    "static/media/3DResponsive.gif": "/static/media/3DResponsive.87c81010e07f0c50b9df.gif",
     "static/media/GoogleHomepage.jpg": "/static/media/GoogleHomepage.5e4d6ef81b175a5a3ff4.jpg",
     "static/media/stackedtocolumn.jpg": "/static/media/stackedtocolumn.fe0ff74a7be9034cb83d.jpg",
     "static/media/columntostacked.jpg": "/static/media/columntostacked.49f4dc0523d0aede0628.jpg",
@@ -31,11 +34,11 @@
     "static/media/ClosedBottom&SideSheet.JPG": "/static/media/ClosedBottom&SideSheet.40b8cbc8e747a051f9d8.JPG",
     "static/media/NotesAppOpenPage.png": "/static/media/NotesAppOpenPage.851b1f4a11222bbdfdf9.png",
     "index.html": "/index.html",
-    "main.7377e8c0.css.map": "/static/css/main.7377e8c0.css.map",
-    "main.1426d38a.js.map": "/static/js/main.1426d38a.js.map"
+    "main.cb926b8d.css.map": "/static/css/main.cb926b8d.css.map",
+    "main.28a18e2f.js.map": "/static/js/main.28a18e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7377e8c0.css",
-    "static/js/main.1426d38a.js"
+    "static/css/main.cb926b8d.css",
+    "static/js/main.28a18e2f.js"
   ]
 }
