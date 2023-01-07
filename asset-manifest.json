@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb926b8d.css",
-    "main.js": "/static/js/main.28a18e2f.js",
+    "main.css": "/static/css/main.3db18b78.css",
+    "main.js": "/static/js/main.f6e65b43.js",
     "static/media/image-generator.gif": "/static/media/image-generator.c9dc795fbf5cf644e763.gif",
     "static/media/portfolio.gif": "/static/media/portfolio.529dbd68ff5a8b7ea006.gif",
     "static/media/TikTok Redesign.gif": "/static/media/TikTok Redesign.884d72ac59fbde3b0093.gif",
@@ -34,11 +34,11 @@
     "static/media/ClosedBottom&SideSheet.JPG": "/static/media/ClosedBottom&SideSheet.40b8cbc8e747a051f9d8.JPG",
     "static/media/NotesAppOpenPage.png": "/static/media/NotesAppOpenPage.851b1f4a11222bbdfdf9.png",
     "index.html": "/index.html",
-    "main.cb926b8d.css.map": "/static/css/main.cb926b8d.css.map",
-    "main.28a18e2f.js.map": "/static/js/main.28a18e2f.js.map"
+    "main.3db18b78.css.map": "/static/css/main.3db18b78.css.map",
+    "main.f6e65b43.js.map": "/static/js/main.f6e65b43.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb926b8d.css",
-    "static/js/main.28a18e2f.js"
+    "static/css/main.3db18b78.css",
+    "static/js/main.f6e65b43.js"
   ]
 }
