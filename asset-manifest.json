@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d083ca9.css",
-    "main.js": "/static/js/main.3b618e2c.js",
+    "main.css": "/static/css/main.ddcf2c0a.css",
+    "main.js": "/static/js/main.48787122.js",
     "static/media/bank-app.gif": "/static/media/bank-app.94bffecf8ca4ee81cf23.gif",
     "static/media/image-generator.gif": "/static/media/image-generator.c9dc795fbf5cf644e763.gif",
     "static/media/portfolio.gif": "/static/media/portfolio.529dbd68ff5a8b7ea006.gif",
     "static/media/TikTok Redesign.gif": "/static/media/TikTok Redesign.884d72ac59fbde3b0093.gif",
+    "static/media/blog-site.gif": "/static/media/blog-site.1027c4fb184f61611385.gif",
     "static/media/3DLogo.gif": "/static/media/3DLogo.49a353ff32bbf7560dcb.gif",
     "static/media/17.jpg": "/static/media/17.e5447c10962d0128a529.jpg",
     "static/media/3DResponsive.gif": "/static/media/3DResponsive.87c81010e07f0c50b9df.gif",
@@ -20,6 +21,8 @@
     "static/media/chessgametrimmed.gif": "/static/media/chessgametrimmed.a4e50a5d3c49cee1966f.gif",
     "static/media/Original Design.png": "/static/media/Original Design.66f2a0e0f61364360fca.png",
     "static/media/Original with CC.png": "/static/media/Original with CC.83076bb165f7df586643.png",
+    "static/media/blog-site-post-page.png": "/static/media/blog-site-post-page.46cff846c9afa78662db.png",
+    "static/media/blog-site-home-page.png": "/static/media/blog-site-home-page.2082609e10c3e47dafd4.png",
     "static/media/CaseConverter.gif": "/static/media/CaseConverter.7c3a6deb45573b09a402.gif",
     "static/media/NotesApp.gif": "/static/media/NotesApp.22b32d67248bca5b4ffd.gif",
     "static/media/chessgame.png": "/static/media/chessgame.5816e9c797e0d59037f4.png",
@@ -38,11 +41,11 @@
     "static/media/ClosedBottom&SideSheet.JPG": "/static/media/ClosedBottom&SideSheet.40b8cbc8e747a051f9d8.JPG",
     "static/media/NotesAppOpenPage.png": "/static/media/NotesAppOpenPage.851b1f4a11222bbdfdf9.png",
     "index.html": "/index.html",
-    "main.8d083ca9.css.map": "/static/css/main.8d083ca9.css.map",
-    "main.3b618e2c.js.map": "/static/js/main.3b618e2c.js.map"
+    "main.ddcf2c0a.css.map": "/static/css/main.ddcf2c0a.css.map",
+    "main.48787122.js.map": "/static/js/main.48787122.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d083ca9.css",
-    "static/js/main.3b618e2c.js"
+    "static/css/main.ddcf2c0a.css",
+    "static/js/main.48787122.js"
   ]
 }
