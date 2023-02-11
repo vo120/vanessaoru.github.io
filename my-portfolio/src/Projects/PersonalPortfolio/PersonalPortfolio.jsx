@@ -106,7 +106,7 @@ const PersonalPortfolio = () => {
           <div className="row">
             <Link
               className="col-lg-6 no-underline prev"
-              to="/projects/bank-app"
+              to="/projects/blog-site"
             >
               <p id="prev">
                 <ion-icon name="arrow-back"></ion-icon>
