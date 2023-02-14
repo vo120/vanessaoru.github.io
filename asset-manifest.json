@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ddcf2c0a.css",
-    "main.js": "/static/js/main.76fce2f8.js",
+    "main.js": "/static/js/main.8176a02f.js",
     "static/media/bank-app.gif": "/static/media/bank-app.94bffecf8ca4ee81cf23.gif",
     "static/media/image-generator.gif": "/static/media/image-generator.c9dc795fbf5cf644e763.gif",
     "static/media/portfolio.gif": "/static/media/portfolio.529dbd68ff5a8b7ea006.gif",
@@ -42,10 +42,10 @@
     "static/media/NotesAppOpenPage.png": "/static/media/NotesAppOpenPage.851b1f4a11222bbdfdf9.png",
     "index.html": "/index.html",
     "main.ddcf2c0a.css.map": "/static/css/main.ddcf2c0a.css.map",
-    "main.76fce2f8.js.map": "/static/js/main.76fce2f8.js.map"
+    "main.8176a02f.js.map": "/static/js/main.8176a02f.js.map"
   },
   "entrypoints": [
     "static/css/main.ddcf2c0a.css",
-    "static/js/main.76fce2f8.js"
+    "static/js/main.8176a02f.js"
   ]
 }
